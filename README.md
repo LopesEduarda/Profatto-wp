@@ -147,10 +147,24 @@ profatto/
 ## Instalação
 
 1. Faça upload do tema para `/wp-content/themes/`
-2. Ative o tema no painel WordPress
-3. Configure os menus em **Aparência > Menus**
-4. Personalize no **Aparência > Personalizar**
-5. Crie páginas e conteúdo
+2. <img width="677" height="161" alt="image" src="https://github.com/user-attachments/assets/85542b16-40f7-4170-855d-6b46a1c69753" />
+
+3. Ative o tema no painel WordPress
+4. Configure os menus em **Aparência > Menus**
+5. Personalize no **Aparência > Personalizar**
+6. Crie páginas e conteúdo
+
+## Imagens
+<img width="1879" height="965" alt="image" src="https://github.com/user-attachments/assets/016e41e8-a111-46db-9025-336d9aebae9c" />
+
+<img width="1886" height="975" alt="image" src="https://github.com/user-attachments/assets/7abef29a-6b0a-4291-9b72-e8c5e6a07f50" />
+
+<img width="1879" height="914" alt="image" src="https://github.com/user-attachments/assets/ce89c035-3d5e-457e-9f45-7a201a29ddce" />
+
+<img width="1890" height="710" alt="image" src="https://github.com/user-attachments/assets/0a5e5ed6-1b3d-4f92-acc9-2c51a6498f6a" />
+
+
+
 
 ## Configuração Recomendada
 
