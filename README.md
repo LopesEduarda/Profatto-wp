@@ -39,7 +39,6 @@ profatto/
 ├── page.php              # Template para páginas
 ├── single.php            # Template para posts
 ├── archive.php           # Template para arquivos
-├── 404.php              # Página de erro 404
 ├── searchform.php        # Formulário de busca
 ├── style.css             # Estilos principais
 ├── js/
@@ -138,7 +137,6 @@ profatto/
 2. **Sobre Nós**: Informações da empresa com estatísticas
 3. **Como Ajudamos**: 3 passos de assistência
 4. **Newsletter**: Formulário de inscrição
-5. **Projetos Recentes**: Grid de projetos
 
 ## Rodapé
 
@@ -165,29 +163,4 @@ profatto/
 - **Projetos**: Portfólio de trabalhos
 - **Contato**: Formulário e informações
 
-### Customizer
-- Configure o telefone e endereços
-- Defina o horário de funcionamento
-- Adicione logo personalizada
 
-## Suporte
-
-Para suporte técnico ou dúvidas sobre o tema, entre em contato através do painel WordPress ou consulte a documentação oficial do WordPress.
-
-## Changelog
-
-### Versão 1.0
-- Lançamento inicial do tema
-- Design responsivo completo
-- Custom Post Types para Projetos e Produtos
-- Sistema de newsletter
-- Integração com Customizer
-- Otimizações de performance
-
-## Licença
-
-Este tema segue as diretrizes do WordPress e é compatível com a GPL v2 ou posterior.
-
----
-
-**Desenvolvido com ❤️ para ProFatto**
